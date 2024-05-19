@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC2023\\source\\repos\\Week 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE775BD1-0824-4B99-8913-F5816293933A}|Functions\\Functions.csproj|c:\\users\\pc2023\\source\\repos\\week 7\\functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE775BD1-0824-4B99-8913-F5816293933A}|Functions\\Functions.csproj|solutionrelative:functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337DBA46-F417-4EF9-AEDA-73A835351614}|DisscountCalculator\\DisscountCalculator.csproj|c:\\users\\pc2023\\source\\repos\\week 7\\disscountcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337DBA46-F417-4EF9-AEDA-73A835351614}|DisscountCalculator\\DisscountCalculator.csproj|solutionrelative:disscountcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6844BBAC-3AC2-4E5F-B721-DC3A38D510B2}|Calculator\\Calculator.csproj|c:\\users\\pc2023\\source\\repos\\week 7\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6844BBAC-3AC2-4E5F-B721-DC3A38D510B2}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F359FA4F-D632-47FB-B40A-4A32FB9FEF51}|Week 7\\Week 7.csproj|c:\\users\\pc2023\\source\\repos\\week 7\\week 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F359FA4F-D632-47FB-B40A-4A32FB9FEF51}|Week 7\\Week 7.csproj|solutionrelative:week 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC2023\\source\\repos\\Week 7\\Functions\\Program.cs",
+              "RelativeDocumentMoniker": "Functions\\Program.cs",
+              "ToolTip": "C:\\Users\\PC2023\\source\\repos\\Week 7\\Functions\\Program.cs",
+              "RelativeToolTip": "Functions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:07:53.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC2023\\source\\repos\\Week 7\\DisscountCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "DisscountCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\PC2023\\source\\repos\\Week 7\\DisscountCalculator\\Program.cs",
+              "RelativeToolTip": "DisscountCalculator\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:07:33.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC2023\\source\\repos\\Week 7\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\PC2023\\source\\repos\\Week 7\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:07:18.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC2023\\source\\repos\\Week 7\\Week 7\\Program.cs",
+              "RelativeDocumentMoniker": "Week 7\\Program.cs",
+              "ToolTip": "C:\\Users\\PC2023\\source\\repos\\Week 7\\Week 7\\Program.cs",
+              "RelativeToolTip": "Week 7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:06:44.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
